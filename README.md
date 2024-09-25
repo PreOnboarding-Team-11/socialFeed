@@ -50,13 +50,5 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
 
 
-## 요구 사항
-
-## 주요 기능
-
-## API 명세
-
-## 디렉토리 구조
-
 ## 컨벤션
 [코딩 컨벤션] https://github.com/PreOnboarding-Team-11/socialFeed/wiki/%E2%9C%85-Github-Convention
